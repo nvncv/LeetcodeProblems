@@ -89,11 +89,6 @@ public class RemoveElement
 
             //Finally, the output.
             System.out.println(k+", nums = "+numsOutput+"]");
-        }
 
-        
-        
-        
-	}
-	
-}
+	    //NOTE: input was being elicited through loops in some cases as it is more convenient than rerunning at times where input was invalid.
+        }}}
